@@ -1,14 +1,14 @@
 # Data-Visualization
 
-# 📊 Data Visualization with Python: Exploring Insights through Plots
+# Data Visualization with Python: Exploring Insights through Plots
 
-## 📝 **Project Overview**
+##  **Project Overview**
 
 This project focuses on the art of **data visualization**, transforming raw data into meaningful insights using powerful Python libraries such as **Matplotlib**, **Seaborn**, **Plotly**, and **Cufflinks**. The goal is to showcase the ability to create both static and interactive plots that aid in data storytelling, uncovering trends, and supporting data-driven decisions.
 
 ---
 
-## 🎯 **Objectives**
+## **Objectives**
 
 - Master **basic to advanced plotting techniques** using Matplotlib and Seaborn.
 - Create **interactive visualizations** with Plotly and Cufflinks.
@@ -18,7 +18,7 @@ This project focuses on the art of **data visualization**, transforming raw data
 
 ---
 
-## 📂 **Dataset Description**
+##  **Dataset Description**
 
 - **Titanic Dataset:** Loaded from Seaborn for survival analysis and demographic visualization.
 - **2014 World Power Consumption Dataset:** For global power consumption visualization.
@@ -37,7 +37,7 @@ This project focuses on the art of **data visualization**, transforming raw data
 
 ---
 
-## 📊 **Project Workflow**
+## **Project Workflow**
 
 1. **Data Preparation:**
    - Generating synthetic data using NumPy.
@@ -61,7 +61,7 @@ This project focuses on the art of **data visualization**, transforming raw data
 
 ---
 
-## 📈 **Key Visualizations**
+## **Key Visualizations**
 
 1. **Mathematical Plots:**
    - Line plots for functions like `y = 2x` and `z = x^2`.
@@ -79,7 +79,7 @@ This project focuses on the art of **data visualization**, transforming raw data
 
 ---
 
-## 🚀 **How to Run the Project**
+##  **How to Run the Project**
 
 1. **Clone the Repository:**
    ```bash
